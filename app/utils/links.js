@@ -28,7 +28,7 @@ export const educationIntegrationLinks = [
     bg: 'bg-gradient-to-r from-violet-600 to-indigo-600',
   },
   {
-    title: 'Advanced Course Finder',
+    title: 'Advanced University & Course Finder',
     to: '/education/advanced-course-finder',
     bg: 'bg-gradient-to-r from-emerald-400 to-cyan-400',
   },
